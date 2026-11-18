@@ -1,0 +1,19 @@
+# build outputs
+build*/
+*.obj
+*.pdb
+*.lib
+*.exp
+
+# binaries
+*.dll
+*.exe
+
+# captures
+pkt_*.bin
+pktcap/*.bin
+
+# editor
+.vs/
+.vscode/
+*.user
